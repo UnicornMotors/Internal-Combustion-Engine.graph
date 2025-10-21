@@ -1,2 +1,6 @@
 # Internal-Combustion-Engine.graph
-https://en.wikipedia.org/wiki/Flame_speed
+# Physics
+- https://en.wikipedia.org/wiki/Flame_speed
+- https://en.wikipedia.org/wiki/Adiabatic_flame_temperature
+- https://en.wikipedia.org/wiki/Premixed_flame
+- https://en.wikipedia.org/w/index.php?title=Sugden_Award
