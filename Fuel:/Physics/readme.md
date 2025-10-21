@@ -1,2 +1,4 @@
 - https://en.wikipedia.org/wiki/Flash_point
-- 
+- https://en.wikipedia.org/wiki/Lower_flammable_limit
+- https://en.wikipedia.org/wiki/Boyle%27s_law
+- https://en.wikipedia.org/wiki/Autoignition_temperature
