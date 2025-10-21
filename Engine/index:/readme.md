@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Stationary_engine
+- https://en.wikipedia.org/wiki/Hit-and-miss_engine
+- https://en.wikipedia.org/wiki/Petrol-paraffin_engine
